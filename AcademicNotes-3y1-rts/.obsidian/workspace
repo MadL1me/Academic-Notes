@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "42ea8c40731da826",
+    "type": "split",
+    "children": [
+      {
+        "id": "26b75bd3740fb70e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Микропроцессоры/Теорема Котельникова.md",
+            "mode": "source"
+          }
+        },
+        "group": "41a3e617015797cc"
+      },
+      {
+        "id": "26ee1413c83d8b73",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Микропроцессоры/Теорема Котельникова.md",
+            "mode": "preview"
+          }
+        },
+        "group": "41a3e617015797cc"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b227b23be714ced4",
+    "type": "split",
+    "children": [
+      {
+        "id": "21c40d678bdb7143",
+        "type": "tabs",
+        "dimension": 79.01606425702812,
+        "children": [
+          {
+            "id": "2e087879d0015bb8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9253d2e7f548a5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b69beff28dd5c11f",
+        "type": "tabs",
+        "dimension": 20.983935742971887,
+        "children": [
+          {
+            "id": "6825ea8a25d64895",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359
+  },
+  "right": {
+    "id": "870a2a23d3aa1c90",
+    "type": "split",
+    "children": [
+      {
+        "id": "242d15dec555467e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bab23e25689fd041",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Микропроцессоры/Теорема Котельникова.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346
+  },
+  "active": "26b75bd3740fb70e",
+  "lastOpenFiles": [
+    "Микропроцессоры/Теорема Котельникова.md",
+    "Микропроцессоры/Транзисторно-транзисторная логика.md",
+    "Микропроцессоры/Логические уровни.md",
+    "Микропроцессоры/Как работает МДП-транзистор.md",
+    "Микропроцессоры/Как работает биполярный транзистор.md",
+    "Микропроцессоры/Импульсно-модулированный сигнал.md",
+    "Микропроцессоры/Диодно-транзисторная логика.md",
+    "Карта навигации - 3 курс 1 сем.md",
+    "Микропроцессоры/001 Краткое содержание курса - Микропроцессоры.md",
+    "Микропроцессоры/Цифровой сигнал.md"
+  ]
+}
